@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_27.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_27.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_images.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\images.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_19.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_19.png"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_20.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_20.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img_8.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img_8.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img_12.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img_12.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img.png"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_24.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_24.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_16.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_16.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_humidity.jpg.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\humidity.jpg"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_21.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_21.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_e0dce29fcd7f2116ae85cde7c882bb15.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/e0dce29fcd7f2116ae85cde7c882bb15.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_g.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\g.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img_9.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img_9.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\layout_donglistview.xml.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\layout\\donglistview.xml"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_15.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_15.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/layout_activity_main2.xml.flat",
+        "source": "com.example.appdbothitit.app-main-30:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_14.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_14.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_25.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_25.png"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_22.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_22.png"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_18.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_18.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img_10.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img_10.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img_6.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img_6.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.appdbothitit.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_26.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_26.png"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_13.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_13.png"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_17.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_17.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img_7.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img_7.png"
+    },
+    {
+        "merged": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-merged_res-28:\\drawable_img_11.png.flat",
+        "source": "C:\\Users\\DTC\\.gradle\\daemon\\8.0\\com.example.appdbothitit.app-main-30:\\drawable\\img_11.png"
+    },
+    {
+        "merged": "com.example.appdbothitit.app-merged_res-28:/drawable_img_23.png.flat",
+        "source": "com.example.appdbothitit.app-main-30:/drawable/img_23.png"
+    }
+]
